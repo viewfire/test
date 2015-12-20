@@ -1,2 +1,10 @@
 start
 second line
+third line
+
+blue
+red
+white
+gray
+
+black
